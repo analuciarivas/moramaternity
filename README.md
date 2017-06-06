@@ -8,6 +8,8 @@ algunas cosas basicas
 TIPOGRAFIA:
 
 Headings, buttons, menu, and navigation
+
+
                 Font Monserrat Medium
                 Capitalize headings  SI
                 Capitalize button text  SI
@@ -67,39 +69,59 @@ Body text
 
 
 COLORES:
-General
-Body background: #fff
-a,.text-link {
-	color:#000;
-	text-decoration:underline;
-	background:transparent
-}
-a:hover,a:focus {
-	color:#262626
-Buttons
-Primary buttons  
-Secondary buttons  
-Button text  
+General, Body background: #fff
+  a,.text-link {
+  	color:#000;
+  	text-decoration:underline;
+  	background:transparent
+  }
+  a:hover,a:focus {
+  	color:#262626
 
-.social-icons li .icon,.social-icons li .slick-next,.social-icons li .slick-prev {
-	font-size:26px;
-	line-height:20px
-}
-.social-icons li a {
-	color:#2e3438
-}
-.social-icons li a:hover {
-	color:#171a1c
-}
-Footer
-Color: #F2F2F2
+Social icons:
+    .social-icons li .icon,.social-icons li .slick-next,.social-icons li .slick-prev {
+    	font-size:26px;
+    	line-height:20px
+    }
+    .social-icons li a {
+    	color:#2e3438
+    }
+    .social-icons li a:hover {
+    	color:#171a1c
+    }
+
+Footer Color: #F2F2F2 or RGB = 242, 242, 242
+
+Logo color: R=156 G=75 B=163
+#9C4BA3
 
 Social icons:  http://ionicons.com/
-Twitter:
-Facebook:  
-Instagram:  
+
+Twitter: https://twitter.com/moramedias?lang=en
+Facebook:  https://www.facebook.com/mediasmora
+Instagram:  https://www.instagram.com/mediasmora/
 
 
-links para social media para header:
-https://www.facebook.com/mediasmora
-https://www.instagram.com/mediasmora/
+
+Texto Menu Header:
+LOGO       HOME    PRODUCTOS     FAQ     MI CUENTA
+
+MI CUENTA:
+
+ESTAS REGISTRADA? INGRESA A TU CUENTA
+EMAIL
+CLAVE
+
+RECORDAME
+NO TENES USUARIO? REGISTRATE
+EMAIL
+NOMBRE
+APELLIDO
+CLAVE
+BOTON: QUIERO RECIBIR NEWSLETTER
+
+Linea Mora Maternity
+Durante nueve meses tu cuerpo se transforma para convertirse en un ambiente habitable y seguro para alguien más. Nuestros productos estan diseñados para adaptarse a los cambios, sin cambiar tu onda.
+
+Todo en Un Lugar
+MoraMaternity es un sitio pensado especialmente para esos momentos en que pareciera que para ser vos misma, tenes que ser otra.
