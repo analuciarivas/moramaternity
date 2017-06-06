@@ -76,6 +76,8 @@ p {
  border: 1px solid white;
 }
 
+
+
 /*estilo de la imagen de arriba - hero element style*/
 
 
@@ -175,10 +177,26 @@ p {
    background-size: cover;
 }
 
+/*.banner-text-box {
+  box-sizing: border-box;
+  display: block;
+  background: #FFFFFF
+  border: 1px solid #2e3438;
+  box-shadow: 0 0 0 8px #FFFFFF;
+  color: #2e3438;
+  margin: 8px;
+  border-radius: 0px;
+  padding: 12px 20px;
+  font-size: 1em;
+  line-height: 1.42;
+  vertical-align: middle;
+  white-space: nowrap;
+}*/
+
 .banner-text-left {
  position:relative;
  left: 15%;
- text-align: left;
+ text-align: center;
  transform: translate(-50%, -50%);
  color: #2e3438;
  padding: 30px;
@@ -189,7 +207,7 @@ p {
 .banner-text-right {
  position:relative;
  left: 85%;
- text-align: right;
+ text-align: center;
  transform: translate(-50%, -50%);
  color: #2e3438;
  padding: 30px;
